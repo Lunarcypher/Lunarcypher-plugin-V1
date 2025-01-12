@@ -1,0 +1,110 @@
+Name	Set	Imagefile	Type of card	Play Cost	Color	Power 	Weapon	Skill	Status	Level Requirement	Range
+Lelouch The Conqueror	Alpha		Leader	-	colorless	20	Staff	"Tactical Retreat: Activate: You may move this unit  (1V)Level 1: Follow the Plan: Activate: When one of your troops attack, you may move that troop (3V)Level 2: I AM ZERO: All: This card gains 20 power (6V)Level 3: I command you!!: Discard 1 card: When Attacking: You may select one enemy units to attack another troop in their respective zone. "	Infantry	1= 1 Valor 2= 4 Valor 3= 6 Valor 	N/A
+Ice King	Alpha		Leader	-	colorless	20	Sword	"Skill 1: When attacking: gain +10 power  (1V)Level 1: Skill 2: Discard 1 card Activate: Select one troop with less power, move them (3V)Level 2: skill 3: All: This card gains 20 power (5V)Level 3: skill 4: When Attacking: If this unit is being blocked +20 power "	Cavalier	1= 1 Valor 2= 3 Valor 3= 5 Valor 	N/A
+Swordman 1	Alpha		Troop	1	colorless	20	Sword	N/A	Infantry	N/A	N/A
+Wizard 1	Alpha		Troop	1	colorless	10	Staff	N/A	Infantry	N/A	N/A
+Swordman 2	Alpha		Troop	2	colorless	20	Sword	Skill A: When attacking: this card gains 10 power for this attack for this turn	Infantry	N/A	N/A
+Wizad 2	Alpha		Troop	2	colorless	10	Staff	Skill B: When attacking: this card gains 10 power for this attack for this turn	Infantry	N/A	N/A
+Swordman 3	Alpha		Troop	2	colorless	10	Sword	Skill C: On play: you may select one weapon from the trash, add it to hand	Infantry	N/A	N/A
+Wizard 3	Alpha		Troop	2	colorless	0	Staff	Skill D: On play: you may select one weapon from the trash, add it to hand	Infantry	N/A	N/A
+Swordman 4	Alpha		Troop	3	colorless	30	Sword	N/A	Infantry	N/A	N/A
+Wizard 4	Alpha		Troop	3	colorless	20	Staff	N/A	Infantry	N/A	N/A
+Swordman 5	Alpha		Troop	4	colorless	40	Sword	Skill E: When attacking: Draw one card	Infantry	N/A	N/A
+Wizard 5	Alpha		Troop	4	colorless	30	Staff	Skill F: When attacking: Draw one card	Infantry	N/A	N/A
+Swordman 6	Alpha		Troop	5	colorless	40	Sword	Skill G: When attacking: If this unit defeats an enemy in combat, you may select another ally and untap it Skill H: Flip 1 Bond: Activate: When an ally has been untapped by an effect pay the cost, +10 power to that ally for the turn	Infantry	N/A	N/A
+Wizard 6	Alpha		Troop	5	colorless	30	Staff	Skill I: On play: You may select 1 weapon from your trash, add it to your hand. Then if you added a card to the hand, select 1 weapon in your hand and equip to an ally	Infantry	N/A	N/A
+Swordman 7	Alpha		Troop	6	colorless	50	Sword	Skill J: When attacking: Drouble orb break Skill K: When attacking: If this card does not defeat its target in battle, discard 1 card and untap. If this the card discarded was a weapon card, at the end of your opponents turn the weapon discarded by this effect is return to you hand	Infantry	N/A	N/A
+Wizard 7	Alpha		Troop	6	colorless	40	Staff	Skill L: On play: you may select 1 weapon equipped  to an enemy troop, Destroy that weapon Skill M: Activate: When a weapon is destroyed, Draw 1 card HAKI!!!: Flip 3 bonds: Activate: Select 1 weapon equipped to an enemy, destroy that weapon	Infantry	N/A	N/A
+CC	Alpha		Troop	2	colorless	0	Staff	Undying Witch: All: If you have a "Lelouch" unit on your board, This unit cannot be defeated in battle Accomplice: All: When this unit would be defeated in battle, instead it is tapped until then end of owner's turn Order of the Geass: Activate: When this card untaps, Gain 1 Valor 	Infantry	N/A	N/A
+Nunnally	Alpha		Troop	1	colorless	0	N/A	Big Brother: Tap this unit: Activate: Draw 1 card then discard 1 card NUNNALLY!!!!!!!!!!!!!: Activate: When a "Lelouch" gets attacked, +20	Infantry	N/A	N/A
+Ice Queen	Alpha		Troop	4	colorless	40	Sword	My Love!!: Activate: If an enemy unit blocks and is defeated, you may untap this unit	Infantry	N/A	N/A
+Fjorm	Alpha		Troop	3	colorless	30	Sword/Lance	Ice Mirror: All: if your opponent has no cards in the Rearguard, this unit gets 20 Lance of Ice: Tap this card, Flip 1 bond: Activate: Choose 1 troop enemy in the Rearguard, and destroy them. This skill may only be used if this unit is in the Vanguard.	Infantry	N/A	N/A
+Monster Reborn	Alpha		Spell	5	colorless	-	N/A	Flip 1 Bond: Select one troop in your trash and play it to the field tapped	Infantry	N/A	N/A
+Disarm	Alpha		Spell	3	colorless	-	N/A	select enemy troop, trash their weapon	Infantry	N/A	N/A
+Fissure	Alpha		Spell	3	colorless	-	N/A	Flip 1 bond, Tap 1 ally, lowest power enemy troop is destroyed	Infantry	N/A	N/A
+Weapon Swap	Alpha		Spell	2	colorless	-	N/A	Select one ally, give that ally an weapon you control on the board	Infantry	N/A	N/A
+Weapon Reborn	Alpha		Spell	2	colorless	-	N/A	flip 1 bond, Select 1 weapon from trash add it to hand	Infantry	N/A	N/A
+Pot of Greed	Alpha		Spell	3	colorless	-	N/A	draw 2 cards	Infantry	N/A	N/A
+Angelic Pressure	Alpha		Spell	1	colorless	-	N/A	select one enemy -20 power this turn. This effect can only be used during your opponents turn	Infantry	N/A	N/A
+Ice Rapier	Alpha		Weapon	3	colorless	0	Sword	Frozen edge!: When Attacking: If this unit destroys a enemy by combat, you may select 1 enemy troop with less power, that troop cannot attack or block until the start of your next turn	Infantry	N/A	1
+Iron sword	Alpha		Weapon	0	colorless	10	Sword	N/A	Infantry	N/A	1
+Steel sword	Alpha		Weapon	1	colorless	10	Sword	Skill 1: on equip: this unit gain 20 power until then end of your turn	Infantry	N/A	1
+Silver sword	Alpha		Weapon	2	colorless	20	Sword	Skill 2: on equip: Draw 2 card	Infantry	N/A	1
+Levin sword	Alpha		Weapon	2	colorless	10	Sword	Skill 3:  when attacking: if the enemy is in the Rearguard +10 power	Infantry	N/A	1-2
+Broken sword	Alpha		Weapon	0	colorless	0	Sword	Skill 7: on Equip: Draw 1 card	Infantry	N/A	1
+Staff of Democles	Alpha		Weapon	3	colorless	20	Staff	F.L.E.I.J.A: Flip 1 bond: Activate: Select one untapped ally troop and one enemy troop, Detroy them both Diplomacy: All: If the card " Nunnally" is on the board gain +10 power	Infantry	N/A	1-2
+Iron staff	Alpha		Weapon	0	colorless	10	Staff	N/A	Infantry	N/A	1-2
+Steel staff	Alpha		Weapon	1	colorless	10	Staff	Skill 4: Flip 1 bond: Active: Select one troop in the Rearguard, move that troop	Infantry	N/A	1-2
+Sakuradite Staff	Alpha		Weapon	2	colorless	20	Staff	Skill 5: Flip 2 bond: When attacking: When this unit defeats a unit, select one troop, destroy that troop	Infantry	N/A	1-2
+Heal Staff	Alpha		Weapon	1	colorless	10	Staff	Skill 6: When destroyed: Send this equipped card to the trash, prevent the destruction of the wearer	Infantry	N/A	1-2
+Broken Staff 	Alpha		Weapon	0	colorless	0	Staff	Skill 8: On Equip: Draw 1 card	Infantry	N/A	1-2
+Sora	Alpha		Leader	N/A	Orange	30	Sword	"Skill 1: Auto: When you equip a weapon to this card gains +10 power for the turn Level 1(1V): All: if this card is equipped with a sword, +10 on your oppenents turn, If this card is equipped with a staff +10 power on your turn Level 2(3V): Activate: Add the 1 weapon equiped to this card back to your hand and gain the Staff Affinity, if a card was added back to the hand from this effect,  this card loses Sword Affinity for the turn   Level 3(4V): Auto: When you equip a weapon to this card gains +10 power until the end of your opponents turn"	Infantry	1=1 stack 2=3 stack 3=4 stack	N/A
+Zachery	Alpha		Troop	2	Orange	10	Sword	"That won't stop me": Auto: when this unit is destroyed, add 1 Staff weapon that is 5 cost or higheror 1 Sword weapon that is 3 cost or lower. 	Infantry	N/A	N/A
+Zachery 2	Alpha		Troop	4	Orange	20	Sword	"Instruction in magic: Auto: When an another ally equips a weapon, Draw 1 card  Practical experiance: Activate: Select an ally, move that unit"	Infantry	N/A	N/A
+Emergency Rearm	Alpha		Spell	1	Colorless	N/A	N/A	Select 1 weapon from your hand and equip it to an ally. This effect can only be used during your opponents turn	N/A	N/A	N/A
+Fire Spell	Alpha		Weapon	2	Orange	0	Staff	Fire!!: On Equip: Gain +20 power for the turn	N/A	N/A	1-2
+Fira Spell	Alpha		Weapon	4	Orange	0	Staff	Fira!!: On Equip: Gain +40 power for the turn	N/A	N/A	1-2
+Firaga	Alpha		Weapon	6	Orange	0	Staff	Firaga!!: On Equip: Gain +40 power for the turn. Then select 1 enemy troop with less power and destroy it	N/A	N/A	1-2
+Blizzard	Alpha		Weapon	2	Orange	0	Staff	Blizzard!!: On Equip: Select 1 enemy troop, that card cannot suspend until the end of the oppenent's turn	N/A	N/A	1-2
+Blizzara	Alpha		Weapon	4	Orange	0	Staff	Freeze!!: On Equip: Select 1 enemy Troop, that card cannot suspend until the of the oppenent's turn. Then detroy that units weapon.	N/A	N/A	1-2
+Blizzaga	Alpha		Weapon	6	Orange	0	Staff	Deep Freeze!!: On Equip: Select 1 enemy troop, return owner's hand. Then select 1 enemy unit, destroy their weapon	N/A	N/A	1-2
+Thunder	Alpha		Weapon	2	Orange	0	Staff	Thunder!!: On Equip: -10 power to all enemy troops  on the Front line this turn 	N/A	N/A	1-2
+Thundra	Alpha		Weapon	4	Orange	0	Staff	Storm!!: On Equip: -10 power to all enemy troops on the Front and Back Line this turn	N/A	N/A	1-2
+Thundaga	Alpha		Weapon	6	Orange	0	Staff	Raikiri!!: On Equip: -20 power to all enemy units on the Front and Back Line this turn	N/A	N/A	1-2
+Kingdom Key	Alpha		Weapon	5	Orange	20	Sword	SpellWeaver: Auto: When this weapon would leave the Warzone, add 1 Staff Weapon from the Retreat Area to your hand	N/A	N/A	1
+Toy sword	Alpha		Weapon	1	Orange	0	Sword	Playing Pretend: On Equip: If the unit this weapon is being equip to a weapon previously this turn gain +20 and draw 1 card	N/A	N/A	1
+Kirito	Alpha		Leader	N/A	Red	30	Sword	Harem King: Tap another ally Activate: Gain +20 attack Level 1 (2V) Beater: All: Dual Wield Keyword Level 2 (4V) Predict the Prediction Lines: Auto: When this unit would be destroyed, send 1 weapon equiped to the card to the trash, prevent the destruction Level 3 (6V) Starburst Stream: Tap another ally Activate: Untap this unit	Infantry	1=2 stack 2=4 stack 3=6 stack	N/A
+Lisbeth	Alpha		Troop	2	Red	10	Sword	Weaponsmith: On Play: Reveal the top card of your deck. Then if the card is a Weapon card revel the one more card. Add both cards to your hand	Infantry	N/A	N/A
+Asuna	Alpha		Troop	1	Red	10	Sword	"Happy Couple: All: If their is a ""Kirito"" on your side of the Warzone, both this unit and Kirito gain +10 power. This effect is only activated during your opponents turn Fencing Master: Auto: When an ally equips an Sword weapon, select 1 ally, that ally cannot have their attack redirected this turn"	Infantry	N/A	N/A
+Dark Repulser	Alpha		Weapon	3	Red	20	Sword	Finely Crafted: When Attacking: if this unit has their attack target switched, gain +10 power for this attack and Untap this unit	N/A	N/A	1
+Elucidator	Alpha		Weapon	3	Red	20	Sword	Cross sword: Auto: if this unit is targeted for an attack, you may gain +20 power for this attack	N/A	N/A	1
+I-Frames	Alpha		Spell	0	Colorless	N/A	N/A	Select 1 unit on your side of the board, unit can not be destroyed this turn	N/A	N/A	N/A
+Zantetsuken	Alpha		Spell	3	Colorless	N/A	N/A	Untap the unit with the highest power on the board	N/A	N/A	N/A
+Danginshi Master	Alpha		Troop	3	Purple	40	Staff	Martial Artist: All: Dual Wield Keyword Power within: Auto: When this unit equips a weapon, Destroy that weapon, Gain 1 Valor point and gain +20 power until the end of your opponent's turn Senpai: Activate: -20 power from this unit and +20 power to one of your troops	Infantry	N/A	N/A
+Fallen Danginshi Student	Alpha		Troop	2	Purple	30	Axe	Martial Artist: All: Dual Wield Keyword Sadistic Intent: Auto: When attacking you may destroy the weapon equipped to this unit, this unit gain +50 power this turn. At the end of the turn, destroy this troop	Infantry	N/A	N/A
+Denginshi Prodigy	Alpha		Troop	2	Purple	20	Sword	Martial Artist: All: Dual Wield Keyword Fighting Spirit: Auto: When attacking this unit may destroy the weapon equipped to this unit, -20 power to the frontline of your opponent field for this turn. Impact Fist: All: if this troop does not have a weapon equipped +20 power on your turn	Infantry	N/A	N/A
+sacrificial lamp	Alpha		Troop	0	colorless	10	spear	Auto: When is card is sent to the trash -10 power on 1 enemy troop  Auto: When this card is destroyed, draw 1 card and unflip 1 bond	Infantry	N/A	N/A
+Big Shield guard	Alpha		Troop	2	yellow	10	shield	cover: auto: When this unit blocks for another unit, gain +20 for the battle	Infantry	N/A	N/A
+barrier maiden	Alpha		Troop	1	yellow	0	staff	Protect!!!: act: Discard 1 card, flip 1 bond. select 1 troop, that troop cannot be destroyed by enemy unit Effect until the end of their turn	Infantry	N/A	N/A
+ki master	Alpha		Troop	3	yellow	10	shield	Redirect strike: auto: Tap this card. when your uses an Effect that selects one of your troops, you get to select a valid target for the effect	Infantry	N/A	N/A
+Dante the duelist	Alpha		Troop	4	yellow	50	Shield	En Guarde: On play: select 1 troop on your opponents side of the board. That troop must attack Dante the duelist at the start of your opponents main phrase Accept defeat!: auto: when this unit survives an attack from an enemy the attacker was an enemy troop destroy it	Infantry	N/A	N/A
+hardlight screen	Alpha		Spell	3	yellow	0	N/A	all frontline ally get +20 power for their first battle this turn. this effect can only be activated when your opponent attacks	N/A	N/A	N/A
+hardlight bubble	Alpha		Spell	2	yellow	0	N/A	select 1 ally. that ally gains +50 power for this battle. this effect and only be activated when an enemy attacks	N/A	N/A	N/A
+Canibou	Alpha		Weapon	2	purple	0	staff	Embrace: Auto: When this card is sent from the field to the trash, draw 1 card and +10 power to another ally on the field for this turn	N/A	N/A	1-2
+z-sword	Alpha		Weapon	1	purple	0	Sword	Mediation: Auto: When this card is sent from the field to the trash, Gain +20 power until the end of your opponents turn	N/A	N/A	1
+cursed kanabo	Alpha		Weapon	2	purple	0	axe	Sacrifice: auto: When this weapon is sent to the trash, you may destroy 1 ally to add this card back to your hand. If added this way this weapon cannot be played this turn	N/A	N/A	1
+white Flag	Alpha		Weapon	2	purple	0	staff	I SURRENDER!!!!: Auto: If the unit equipped with this card would be destroyed, destroyed this card to prevent the destruction of the unit. If this card is destroyed via this effect add 1 Purple 2 cost or less weapon that is not 'White Flag' to your hand from the trash	N/A	N/A	1
+First Sword	Alpha		Weapon	0	purple	0	sword	"I can still fight": Auto: If this weapon is destroyed, untapped the unit equipped.	N/A	N/A	1
+Ruby sword 	Alpha		Weapon	2	red	0	sword	Discard 1 card Act: gain +20 power until the end of your opponent's turn	N/A	N/A	1
+Tendency Kiten, The Death Dealer	Alpha		Leader	N/A	Purple	20	staff	Aversion to violence: All: This unit cannot attack  (1V) Weapons win wars: Discard 1 troop in your hand Act: reveal at the top 3 cards of your deck add 1 weapon with a cost of 3 or less to your hand. Add the remain card to your deck and shuffle. Skill 3 (3V) Auto: whenever this unit get destroyed by an opponents attack, that unit cannot untapped during their next refresh phase. (This ability can be used up to twice per turn) Skill 4 (4V) Flip 1 bond face down Act: reduce the play cost of the next weapon you equip by 3 play cost	Infantry	1=1 2=3 3=4	N/A
+Aegis Shield	Alpha		Weapon	4	Yellow	10	Shield	Auto: When the unit equipped with this card is tapped, all unit on the front line gain +20	N/A	N/A	0
+Old reliable	Alpha		Weapon	1	Yellow	0	Shield	Auto: When unit equipped with this card would be defeated in combat, Flip 1 bond face down, the unit does not get defeated	N/A	N/A	0
+Kite Shield	Alpha		Weapon	3	Yellow	30	Shield	Act: Tap 1 card: select 1 ally on the field, the ally gains +30 power for this turn. The unit equiped with this weapon loses 30 power this turn when this effect is used		N/A	0
+Parry!!	Alpha		Spell	2	Yellow	N/A	N/A	If an ally blocks an attack for an ally, if the ally has more power then the attacker, destroy the attacker	N/A	N/A	N/A
+Benkay the immovable object	Alpha		Troop	6	Yellow	40	Shield	While this unit is tapped, if this unit would be defeated by battle, flip 1 bond face down and this unit will not be defeated While this unit is untapped, it cannot be targeted for destruction effects All: Cross Counter	Infantry	N/A	0
+Yellow leader	Alpha		Leader	N/A	Yellow	20	Shield	innate skill: auto: Tap this unit: When an ally troop is defeated by battle, unflip 1 face-down bond Skill 1(1V): +20 power Skill 2(4V): Discard 2 cards and tap this unit: select 1 yellow spell from the trash and return it to your hand Skill 3(7V): Flip 3 bonds: Destroy enemy leader	Infantry	1=1 2=4 3=7	0
+Stand Behind me	Alpha		Spell	2	Yellow	N/A	N/A	When an enemy unit attack, you may change the attack target to one of your ally. Then give that unit +10 power	N/A	N/A	N/A
+aging rod	Alpha		Weapon	2	Yellow	0	Staff	Rust 1 weapon for 2 turn	N/A	N/A	1-2
+devil Axe	Alpha		Weapon	2	red	50	axe	when Attacking if this unit doesn't defeat an enemy, destroy an ally axe	N/A	N/A	1
+Effect veiled	Alpha		Troop	3	Colorless	20	Staff	on deploy Rust 1 weapon on your opponent until the end of your opponent's turn. Then at the end of your opponent's turn destroy the selected weapon	N/A	N/A	0
+cannon fodder	Alpha		Troop	2	Green	0	Sword	Activate: destroy this unit. give one ally +20 power,then if the unit has Teamwork keyword they also gain +1 range	Infantry	N/A	0
+general Jian yuan	Alpha		Troop	6	Green	60	Spear	on deploy: play two troops with 20 power of less from your hand tapped  Teamwork   when attacking if you use the keyword Teamwork this card now destroys two orbs	Infantry	N/A	0
+iron axe	Alpha		Weapon	0	Colorless	20	Axe	N/A	N/A	N/A	1
+steel axe	Alpha		Weapon	1	Colorless	30	Axe	when attacking: at the end of this attack this unit must move zones	N/A	N/A	1
+broken axe	Alpha		Weapon	0	Colorless	10	Axe	when blocking: Discard 1 card in your hand	N/A	N/A	1
+iron spear	Alpha		Weapon	0	Colorless	10	Spear	N/A	N/A	N/A	1
+steel spear	Alpha		Weapon	1	Colorless	10	Spear	on equip: You may gain +20 power on this weapon and 1-2 range until the end of the turn if this effect is used destroy this weapon	N/A	N/A	1
+broken spear	Alpha		Weapon	0	Colorless	-10	Spear	on equip: You may gains +20 power on this weapon and 1 draw one card. destroy this card at the end of the turn	N/A	N/A	1
+iron bow	Alpha		Weapon	0	Colorless	0	Bow	0n equip: -10 power to one enemy troop until the end of the turn	N/A	N/A	2
+steel bow	Alpha		Weapon	1	Colorless	10	Bow	when Attacking: select one troop, -10 power until the end of this attack, if the enemy troop selected is tapped, -30 instead	N/A	N/A	2
+broken bow	Alpha		Weapon	0	Colorless	0	Bow	N/A	N/A	N/A	2
+iron Shield	Alpha		Weapon	0	Colorless	20	Shield	N/A	N/A	N/A	0
+steel Shield	Alpha		Weapon	1	Colorless	30	Shield	on block: at the end of battle this unit gains -20 power until the end of the turn	N/A	N/A	0
+broken Shield	Alpha		Weapon	0	Colorless	0	Shield	on equip: draw 1 card	N/A	N/A	0
+united we stand	Alpha		Spell	1	Green	N/A	N/A	select 1 ally give it the teamwork keyword until the end of the turn	N/A	N/A	N/A
+lightning lord	Alpha		Troop	4	Green	0	Spear	on deploy: give one ally the keyword Teamwork until the end of your opponents turn if this card is played by an effect select 1 troop that target can not be blocked until t he end of this turn  if the unit is tapped by an effect this unit gains +30 power	Infantry	N/A	0
+cloud knight	Alpha		Troop	2	Green	10	Spear	if this unit is tapped by an effect draw 1 card	Infantry	N/A	0
+luofu soilder	Alpha		Troop	3	Green	20	Spear	on defeat: flip 1 bond, you may play 1 green unit from from you trash tapped that is 2 play cost or less	Infantry	N/A	0
+smoke shot	Alpha		Weapon	2	Colorless	20	Bow	when Attacking: select one enemy troop with lower power move that unit	N/A	N/A	2
+Green leader	Alpha		Leader	N/A	Green	10	Spear	innate: When a unit is play by an effect this unit gains +10 for this turn skill 1 (2V) +30 power Skill 2 (4V) auto flip 2 bond: When a unit is played by an effect, select 1 weapon from the trash GIVE that weapon to the unit just played  Skill 3 (5V) activate disard 1 card from your hand. All ally units in the same row that has less power than this card gains +20 power for this turn	Infantry	1=2 2=4 3=5	0
+archer company	Alpha		Troop	2	Green	20	Bow	all: for each other ally "archer company" on your side of the battle area, this card gain+10 power	Infantry	N/A	0

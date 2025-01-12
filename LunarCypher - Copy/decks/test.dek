@@ -1,0 +1,14 @@
+<deck version="0.8">
+	<meta>
+		<game>LunarCypher</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="B01-001SR_SAMPLE">Swordman 2</name><set>Alpha</set></card>
+		<card><name id="B01-001SR_SAMPLE">Swordman 2</name><set>Alpha</set></card>
+		<card><name id="B01-001SR_SAMPLE">Swordman 2</name><set>Alpha</set></card>
+		<card><name id="B01-001SR_SAMPLE">Swordman 2</name><set>Alpha</set></card>
+		<card><name id="B01-001SR_SAMPLE">Swordman 2</name><set>Alpha</set></card>
+		<card><name id="B01-001SR_SAMPLE">Swordman 2</name><set>Alpha</set></card>
+		<card><name id="B01-001SR_SAMPLE">Swordman 2</name><set>Alpha</set></card>
+	</superzone>
+</deck>
